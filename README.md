@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/momoolatunde#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/momoolatunde#gh-dark-mode-only)
+&nbsp;&nbsp;
