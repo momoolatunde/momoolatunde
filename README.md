@@ -2,7 +2,7 @@
 
 ### Cloud & Infrastructure Engineer
 
-- 🌍 Cloud engineer from <img src="https://cdn-icons-png.flaticon.com/128/5922/5922004.png" width="13"> Nigeria, currently residing in the <img src="https://cdn-icons-png.flaticon.com/128/8363/8363075.png" width="13"> United Kingdom.
+- 🌍 Cloud engineer from **<img src="https://cdn-icons-png.flaticon.com/128/5922/5922004.png" width="14"> Nigeria**, currently residing in the **<img src="https://cdn-icons-png.flaticon.com/128/8363/8363075.png" width="14"> United Kingdom**.
 - 🔭 Currently working on **enhancing cloud architectures and integrating advanced solutions.**
 - 🌱 Currently deepening my expertise in **DevOps practices and tools.**
 - 👯 Looking to collaborate on **on cutting-edge cloud projects to enhance scalability and resilience.**
